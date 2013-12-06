@@ -1,0 +1,23 @@
+{
+  "name": "nvalidator",
+  "version": "0.1.0",
+  "description": "Simple Node.js validator",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/JakubMrozek/nvalidator.git"
+  },
+  "keywords": [
+    "validator"
+  ],
+  "dependencies": {
+    "validator": "~2.0.0",
+    "moment": "~2.4.0"
+  },
+  "author": "Jakub Mrozek <jakub.mrozek@gmail.com>",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/JakubMrozek/nvalidator/issues"
+  }
+}
